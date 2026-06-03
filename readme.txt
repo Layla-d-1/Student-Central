@@ -1,4 +1,4 @@
-COMP1007 Student central. 
+ Student central. 
 
 This is a Java program built to provide a menu to handle student data. 
 
